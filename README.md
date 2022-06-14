@@ -24,4 +24,4 @@ problem, an intriguing and fascinating challenge to investigate.
 
 # Results:
 
-
+![Gameplay](https://user-images.githubusercontent.com/16362957/173517379-0fcb0719-ea64-4edb-9b91-972a95c959de.gif)
